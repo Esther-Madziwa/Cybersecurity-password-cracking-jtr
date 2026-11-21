@@ -39,7 +39,7 @@ This repository documents two hands-on Cybersecurity & Ethical Hacking lab modul
 ---
 
 ## 📸 Lab Screenshots
-*(Add your screenshots inside the `screenshots/` folder and link them here)*
+
 * `Start.png` – Configuring `john.exe` in Johnny GUI
 * `FirstCracking.png` – Password successfully cracked in Johnny
 * `SecongCracking.png` – Target PDF unlocked
